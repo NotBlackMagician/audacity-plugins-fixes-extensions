@@ -20,7 +20,7 @@ Set shortcuts for:
 Then you start by clicking in the first gap in your project
 Ctrl + Alt + U
 Ctrl + Alt + RightArrow - Use it as many times as you need to go over next gap
-LeftArrow - it doesn't move anything, it just removes any selection (you can also use RightArrow instead)
+RightArrow - it doesn't move anything, it just removes any selection
 LeftArrow - it moves the cursor to the gap on the left from our clip
 
 
@@ -37,3 +37,4 @@ https://social.linux.pizza/@SecretDevil
 
 Buy me a coffee! :D
 https://ko-fi.com/piotropoka
+
