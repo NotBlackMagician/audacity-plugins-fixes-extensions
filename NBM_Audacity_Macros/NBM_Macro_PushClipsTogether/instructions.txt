@@ -23,4 +23,17 @@ Ctrl + Alt + RightArrow - Use it as many times as you need to go over next gap
 LeftArrow - it doesn't move anything, it just removes any selection (you can also use RightArrow instead)
 LeftArrow - it moves the cursor to the gap on the left from our clip
 
+
 Start the whole procedure once again
+
+Feel free to contact me via:
+NotBlackMagic@protonmail.com
+
+Rate me on Github!
+https://github.com/NotBlackMagician
+
+Follow me on Mastodon ;)
+https://social.linux.pizza/@SecretDevil
+
+Buy me a coffee! :D
+https://ko-fi.com/piotropoka
