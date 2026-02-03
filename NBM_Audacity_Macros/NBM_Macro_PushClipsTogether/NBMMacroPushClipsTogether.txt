@@ -4,3 +4,4 @@ SelCursorToTrackEnd:
 Cut:
 CursPrevClipBoundary:
 Paste:
+CursorLeft:
