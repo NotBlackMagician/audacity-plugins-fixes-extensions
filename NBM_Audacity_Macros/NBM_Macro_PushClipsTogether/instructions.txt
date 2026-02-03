@@ -8,23 +8,21 @@ HOW TO USE:
 Move your whole project with all the clips to the beginning (Use Ctrl + A for that)
 Find the first break between the clips and set your cursor in there.
 Use Macro from:
-Tools -> Apply Macro -> (name of the Macro)
+Tools -> Apply Macro -> (eg. Macro_first_step)
 Everything should be closer to the first clip now
+Tools -> Apply Macro -> (eg. Macro_every_other_step)
+Repeat the last step until you're satisfied (mind that audacity has a short delay in updating the visual represantation of the file. You can spam this option with a shortcut and it should work just fine, but if there are any bugs deleting some part of the recording, don't blame me)
 
-AUTOMATION:
+UPDATED AUTOMATING SOLUTION (for old, go to the end of the document):
 You can set the shortcut for any Macro, simply by searching for it by its name in "Keyboard Shortcuts" panel
 In order to quickly close the gaps between the clips the best approach is:
 Set shortcuts for:
-1. Your chosen Macro (eg. Ctrl + Alt + U)
-2. Cursor to Next Clip Boundary (eg. Ctrl + Alt + RightArrow)
-Then you start by clicking in the first gap in your project
+1. Macro_first_step (eg. Ctrl + Alt + U)
+2. Macro_every_other_step (eg. Ctrl + Alt + Y)
+
 Ctrl + Alt + U
-Ctrl + Alt + RightArrow - Use it as many times as you need to go over next gap
-RightArrow - it doesn't move anything, it just removes any selection
-LeftArrow - it moves the cursor to the gap on the left from our clip
-
-
-Start the whole procedure once again
+Ctrl + Alt + Y (repeat this until you're satisfied)
+That's all! :D
 
 Feel free to contact me via:
 NotBlackMagic@protonmail.com
@@ -38,3 +36,20 @@ https://social.linux.pizza/@SecretDevil
 Buy me a coffee! :D
 https://ko-fi.com/piotropoka
 
+
+
+OLD AUTOMATING SOLUTION:
+
+AUTOMATION:
+You can set the shortcut for any Macro, simply by searching for it by its name in "Keyboard Shortcuts" panel
+In order to quickly close the gaps between the clips the best approach is:
+Set shortcuts for:
+1. Your chosen Macro (eg. Ctrl + Alt + U)
+2. Cursor to Next Clip Boundary (eg. Ctrl + Alt + RightArrow)
+Then you start by clicking in the first gap in your project
+Ctrl + Alt + U
+Ctrl + Alt + RightArrow - Use it as many times as you need to go over next gap
+RightArrow - it doesn't move anything, it just removes any selection
+LeftArrow - it moves the cursor to the gap on the left from our clip
+
+Start the whole procedure once again

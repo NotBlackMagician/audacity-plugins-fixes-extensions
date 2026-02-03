@@ -1,7 +1,0 @@
-SelCursorToNextClipBoundary:
-CursorLongJumpRight:
-SelCursorToTrackEnd:
-Cut:
-CursPrevClipBoundary:
-Paste:
-CursorLeft:
