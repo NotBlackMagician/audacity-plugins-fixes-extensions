@@ -1,0 +1,26 @@
+HOW TO INSTALL:
+In order to import the Macro, inside Audacity go to:
+Tools -> Macro Manager
+Click on "Import" and choose the .txt file with Macro inside it
+
+
+HOW TO USE:
+Move your whole project with all the clips to the beginning (Use Ctrl + A for that)
+Find the first break between the clips and set your cursor in there.
+Use Macro from:
+Tools -> Apply Macro -> (name of the Macro)
+Everything should be closer to the first clip now
+
+AUTOMATION:
+You can set the shortcut for any Macro, simply by searching for it by its name in "Keyboard Shortcuts" panel
+In order to quickly close the gaps between the clips the best approach is:
+Set shortcuts for:
+1. Your chosen Macro (eg. Ctrl + Alt + U)
+2. Cursor to Next Clip Boundary (eg. Ctrl + Alt + RightArrow)
+Then you start by clicking in the first gap in your project
+Ctrl + Alt + U
+Ctrl + Alt + RightArrow - Use it as many times as you need to go over next gap
+LeftArrow - it doesn't move anything, it just removes any selection (you can also use RightArrow instead)
+LeftArrow - it moves the cursor to the gap on the left from our clip
+
+Start the whole procedure once again
